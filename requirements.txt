@@ -1,0 +1,24 @@
+# Core dependencies
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+
+# Deep Learning frameworks
+torch
+torchvision
+tensorflow
+
+# Computer Vision
+opencv-python
+dlib
+
+# Utilities
+pydub        # for audio alerts
+tqdm         # progress bars
+imutils      # image helpers
+
+# Jupyter (optional, for notebooks)
+jupyter
+notebook
