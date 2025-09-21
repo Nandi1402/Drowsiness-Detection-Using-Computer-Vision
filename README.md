@@ -1,4 +1,4 @@
-```markdown
+
 # 🚗 Drowsiness Detection in Drivers
 
 A computer vision + deep learning project that detects driver drowsiness in real time to help prevent accidents caused by fatigue.
@@ -47,7 +47,7 @@ drowsiness-detection/
 
 ````
 
----
+
 
 ## 🚀 Getting Started
 
